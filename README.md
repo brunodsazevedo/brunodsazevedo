@@ -1,15 +1,16 @@
 👋 Olá, sou **Bruno**!
 
-💻 Sou um desenvolvedor com habilidades especializadas em JavaScript, TypeScript, React, React Native, Expo e Node.js. Além disso, também tenho formação em Ciências Contábeis e sou habilidoso em Excel e Power BI.
+💻 Sou um desenvolvedor apaixonado por JavaScript, TypeScript, React, React Native, Expo e Node.js. Com experiência sólida nessas tecnologias, estou constantemente buscando aprimorar minhas habilidades e explorar novas possibilidades dentro do ecossistema de desenvolvimento web e mobile.
 
 🚀 Trabalhar com o JavaScript me permite criar aplicações interativas e dinâmicas. Tenho experiência em desenvolvimento frontend usando React, onde construo interfaces elegantes e responsivas. Também domino o desenvolvimento mobile com React Native, aproveitando seu poder para criar aplicativos nativos para iOS e Android.
 
-⚡ Meu foco principal está no desenvolvimento de aplicações web e mobile utilizando as melhores práticas do ecossistema JavaScript. Com experiência sólida nessas tecnologias, sou capaz de criar soluções robustas e eficientes que atendem às necessidades dos usuários.
+⚡ Além disso, tenho conhecimentos em Expo, uma ferramenta poderosa para agilizar o desenvolvimento de aplicativos móveis. Com ele, posso criar projetos rapidamente, aproveitando suas funcionalidades pré-configuradas e abstraindo algumas complexidades do processo.
 
-📊 Minha formação em Ciências Contábeis me proporciona uma perspectiva única ao combinar habilidades técnicas com uma compreensão aprofundada dos aspectos financeiros e contábeis. Essa combinação permite que eu desenvolva soluções que atendam não apenas aos requisitos tecnológicos, mas também aos objetivos de negócios e financeiros.
+🌐 No lado do servidor, sou especialista em Node.js, que me permite construir APIs eficientes e escaláveis. Com o Node.js, posso lidar com manipulação de dados, integrações com bancos de dados e implementação de lógica de negócios robusta.
 
-🔧 Além disso, possuo habilidades avançadas em Excel e Power BI. Com essas ferramentas poderosas, posso criar relatórios dinâmicos, análises de dados e painéis interativos, fornecendo insights valiosos para a tomada de decisões estratégicas.
+🔧 Sou um entusiasta da resolução de problemas e estou sempre em busca de desafios interessantes para aplicar minhas habilidades técnicas. Tenho experiência em trabalhar em equipes colaborativas e estou acostumado com metodologias ágeis de desenvolvimento.
 
-🚀 Estou constantemente buscando aprimorar minhas habilidades e acompanhar as últimas tendências tecnológicas. Adoro enfrentar desafios e trabalhar em equipe, utilizando metodologias ágeis para entregar projetos de alta qualidade.
+✨ Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado e melhorar como desenvolvedor. Adoro compartilhar conhecimentos e ajudar outros desenvolvedores em sua jornada.
 
-📫 Se você está procurando um desenvolvedor com experiência em JavaScript, TypeScript, React, React Native, Expo, Node.js e um conhecimento sólido em Ciências Contábeis, Excel e Power BI, estou pronto para contribuir para o sucesso do seu projeto. Entre em contato comigo através do email bruno@dotazevedo.com.br.
+📫 Se você está procurando um desenvolvedor com sólidos conhecimentos em JavaScript, TypeScript, React, React Native, Expo e Node.js, ficarei feliz em contribuir para o sucesso do seu projeto. Entre em contato comigo através do bruno@dotazevedo.com.
+
