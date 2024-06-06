@@ -12,5 +12,5 @@
 
 ✨ Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado e melhorar como desenvolvedor. Adoro compartilhar conhecimentos e ajudar outros desenvolvedores em sua jornada.
 
-📫 Se você está procurando um desenvolvedor com sólidos conhecimentos em JavaScript, TypeScript, React, React Native, Expo e Node.js, ficarei feliz em contribuir para o sucesso do seu projeto. Entre em contato comigo através do bruno@dotazevedo.com.
+📫 Se você está procurando um desenvolvedor com sólidos conhecimentos em JavaScript, TypeScript, React, React Native, Expo e Node.js, ficarei feliz em contribuir para o sucesso do seu projeto. Entre em contato comigo através do bruno@dotazevedo.com.br
 
